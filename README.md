@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--                    HEADER (text + typing, no images)         -->
+<!--                    HEADER — TYPING + BADGES                   -->
 <!-- ============================================================ -->
 <h1 align="center">Khaled Mohamed</h1>
 
@@ -24,18 +24,20 @@
 <!-- ============================================================ -->
 ### 👋 About Me
 
-I'm a **Backend & Mobile Engineer with 7+ years of experience** architecting scalable backend systems and shipping cross-platform mobile apps. I've worked across Go, Node.js, Python, and Flutter — from monoliths to service-oriented architectures, from Odoo ERP integrations to real-time mobile experiences.
+I am a **Backend & Mobile Engineer with 7+ years of experience** architecting scalable backend systems and shipping cross-platform mobile applications. My work spans Go, Node.js, Python, and Flutter, from monolithic service-oriented architectures to Odoo ERP integrations and real-time mobile experiences.
+
+I care about clean architecture, observability, and shipping products that hold up under real-world load. I have delivered production systems on three continents (🇪🇬 Egypt, 🇸🇪 Sweden, 🇦🇪 UAE), and I am currently based in Dubai.
 
 - 🔭 **Currently:** Building service-oriented **Go** backends at **Hera Sawda Technologies** (Dubai, UAE).
-- 🌱 **Exploring:** gRPC streaming, event-driven architecture, Flutter performance profiling, and Kubernetes.
+- 🌱 **Exploring:** gRPC streaming, event-driven architecture, Flutter performance profiling, and Kubernetes operators.
 - 💬 **Ask me about:** Go · Flutter · Bloc/Riverpod · PostgreSQL · Redis · Docker · AWS · gRPC.
 - 🎯 **Career focus:** Building backends that scale horizontally and mobile apps that feel invisible.
-- ⚡ **Fun fact:** I've shipped code on 3 continents (🇪🇬 🇸🇪 🇦🇪) — the UAE is home now.
+- ⚡ **Fun fact:** I have shipped code on three continents, and the UAE is home now.
 
 ---
 
 <!-- ============================================================ -->
-<!--                    TECH STACK (shields.io only)              -->
+<!--                    TECH STACK — BADGES                       -->
 <!-- ============================================================ -->
 ### 🧰 Tech Stack
 
@@ -95,10 +97,10 @@ I'm a **Backend & Mobile Engineer with 7+ years of experience** architecting sca
 `Dubai, UAE` · `Go · gRPC · PostgreSQL · Redis · Docker · AWS`
 
 - Architected a **service-oriented Go monolith** handling enterprise workloads.
-- Designed **RESTful APIs (Gin)** and defined **gRPC services + Protobuf contracts**.
+- Designed **RESTful APIs (Gin)** and defined **gRPC services and Protobuf contracts**.
 - Built persistence layers with **GORM**, following clean architecture with full test coverage.
-- Containerized services with **Docker**; collaborated on **Kubernetes** deployments.
-- Implemented **observability, CI/CD pipelines**, improving reliability and code quality.
+- Containerized services with **Docker** and collaborated on **Kubernetes** deployments.
+- Implemented **observability and CI/CD pipelines**, improving reliability and code quality.
 
 </td>
 </tr>
@@ -111,7 +113,7 @@ I'm a **Backend & Mobile Engineer with 7+ years of experience** architecting sca
 
 - Built and maintained **RESTful APIs and serverless backends** using Next.js API routes.
 - Integrated **OAuth/JWT** authentication and third-party payment gateways.
-- Deployed on **Vercel, AWS, and Firebase**; optimized PostgreSQL/MySQL/MongoDB queries.
+- Deployed on **Vercel, AWS, and Firebase**, optimizing PostgreSQL, MySQL, and MongoDB queries.
 
 </td>
 </tr>
@@ -124,7 +126,7 @@ I'm a **Backend & Mobile Engineer with 7+ years of experience** architecting sca
 
 - Customized and extended **Odoo modules** (Sales, Inventory, Accounting, Purchase).
 - Developed and maintained **custom Python modules** with XML views and PostgreSQL.
-- Managed **database migrations** and performance tuning; collaborated with mobile teams for ERP integration.
+- Managed **database migrations and performance tuning**; collaborated with mobile teams for ERP integration.
 
 </td>
 </tr>
@@ -138,7 +140,7 @@ I'm a **Backend & Mobile Engineer with 7+ years of experience** architecting sca
 - Engineered cross-platform Flutter apps, **reducing development time by 40%**.
 - Built and deployed **multiple feature-rich apps** for Android and iOS.
 - Integrated **REST APIs, WebSocket, Firebase services**, and third-party SDKs.
-- Implemented **clean architecture** and state management (Provider, Bloc, Riverpod).
+- Implemented **clean architecture and state management** (Provider, Bloc, Riverpod).
 - Ensured high code quality via **unit, integration, and golden tests**.
 
 </td>
@@ -165,7 +167,7 @@ Hotel management backend — bookings, inventory, staff APIs.
 <td width="50%">
 
 #### 🏥 [Life-Line](https://github.com/mo7amed4522/Life-Line)
-Hospital management & emergency response app.
+Hospital management and emergency response app.
 
 `Flutter` `Dart` `Firebase` `REST APIs`
 
@@ -193,20 +195,28 @@ Home-cooked meals marketplace app with payments.
 
 <p align="center">
   <a href="https://github.com/mo7amed4522?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View all repos" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
   </a>
 </p>
 
 ---
 
 <!-- ============================================================ -->
-<!--                      GITHUB STATS                            -->
+<!--                      GITHUB STATISTICS                       -->
 <!-- ============================================================ -->
+<!--
+  REPLACEMENTS:
+  - github-readme-stats.vercel.app  →  gh-stats.com
+    (same API shape, cache-first, no PAT required, no Vercel pause)
+  - github-readme-activity-graph.vercel.app  →  statsvg_rs
+    (GitHub Actions–generated static SVG, no server, no rate limits)
+-->
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo7amed4522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amed4522&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+  <img height="180em" src="https://gh-stats.com/api/mo7amed4522?show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180em" src="https://gh-stats.com/api/top-langs/mo7amed4522?layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -214,19 +224,46 @@ Home-cooked meals marketplace app with payments.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo7amed4522&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/stats-assets/stats.svg" alt="Lifetime contribution statistics" width="100%" />
 </p>
+
+---
+
+<!-- ============================================================ -->
+<!--                  LIFETIME STATS — SETUP NOTE                 -->
+<!-- ============================================================ -->
+<!--
+  The statsvg_rs card above points to a dedicated branch
+  "stats-assets" in this repository. To activate it:
+
+  1. Fork https://github.com/akshay2211/statsvg_rs
+  2. In render.yml set STATSVG_USER: mo7amed4522
+  3. Enable GitHub Pages for that fork (Source = GitHub Actions)
+  4. Copy the published stats.svg into a branch named
+     "stats-assets" of this profile repository.
+
+  Until then, the image will show a broken link. You can
+  remove the <p> block above to avoid the broken image
+  while you set it up.
+-->
 
 ---
 
 <!-- ============================================================ -->
 <!--                        TROPHIES                              -->
 <!-- ============================================================ -->
-### 🏅 Trophies
+<!--
+  The public trophy host (github-profile-trophy.vercel.app)
+  answers DEPLOYMENT_DISABLED. Do not use it. Trophies have
+  been removed to keep the README reliable.
+-->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mo7amed4522&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub trophies" />
-</p>
+### 🏅 Recognition
+
+- Delivered enterprise Go backends at Hera Sawda Technologies.
+- Shipped 40% faster cross-platform delivery with Flutter at scale.
+- Integrated Odoo ERP with mobile applications for healthcare workflows.
+- Built and maintained payment and authentication systems across three markets.
 
 ---
 
@@ -250,12 +287,12 @@ Home-cooked meals marketplace app with payments.
 <!-- ============================================================ -->
 ### 📜 Certifications & Continuous Learning
 
-- 🐹 **Go** — Advanced concurrency, gRPC, and distributed patterns
-- 🎯 **Flutter** — Bloc, Riverpod, clean architecture, golden testing
-- ☁️ **AWS** — EC2, S3, Lambda, RDS, CloudWatch
-- 🐳 **Docker & Kubernetes** — containerization and orchestration
-- 🗄️ **PostgreSQL & Redis** — query optimization, caching, indexing
-- 📚 **Currently learning:** Kubernetes operators, gRPC streaming, and Flutter performance tuning
+- 🐹 **Go** — Advanced concurrency, gRPC, and distributed patterns.
+- 🎯 **Flutter** — Bloc, Riverpod, clean architecture, and golden testing.
+- ☁️ **AWS** — EC2, S3, Lambda, RDS, and CloudWatch.
+- 🐳 **Docker & Kubernetes** — containerization and orchestration.
+- 🗄️ **PostgreSQL & Redis** — query optimization, caching, and indexing.
+- 📚 **Currently learning:** Kubernetes operators, gRPC streaming, and Flutter performance tuning.
 
 ---
 
