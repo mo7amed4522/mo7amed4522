@@ -23,4 +23,4 @@
 `Go` `gRPC` `PostgreSQL` `Redis` `Docker` `AWS` · `Flutter` `Dart` `Bloc` `Riverpod` · `TypeScript` `Node.js`
 
 ### 🌐 Elsewhere
-[Portfolio](<!-- FILL: your deployed site URL -->) · [GitLab](https://gitlab.com/mo7amed24)
+[Portfolio]([<!-- FILL: your deployed site URL -->](https://mo7amed4522.github.io/MyProtfilo/ )) · [GitLab](https://gitlab.com/mo7amed24)
