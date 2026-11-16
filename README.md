@@ -1,336 +1,161 @@
 <!-- ============================================================ -->
-<!--                    HEADER — TYPING + BADGES                   -->
+<!--              KHALED MOHAMED — PROFESSIONAL PROFILE           -->
 <!-- ============================================================ -->
-<h1 align="center">Khaled Mohamed</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+%26+Mobile+Engineer+%7C+7%2B+Years;Go+%7C+gRPC+%7C+PostgreSQL+%7C+Redis;Flutter+%7C+Dart+%7C+Bloc+%7C+Riverpod;Building+Systems+That+Scale" alt="Typing animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mo7amed4522&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mo7amed4522?label=Followers&style=for-the-badge&color=3B82F6&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mo7amed4522?label=Total%20Stars&style=for-the-badge&color=8B5CF6&logo=github" alt="Stars" />
-</p>
+# Khaled Mohamed
 
-<p align="center">
-  📍 Dubai, UAE · 📧 <a href="mailto:eng.khaled4522@gmail.com">eng.khaled4522@gmail.com</a> · 🌐 <a href="https://mo7amed4522.github.io/MyProtfilo/">Portfolio</a> · 💼 <a href="https://www.linkedin.com/in/khaled-mohamed-abdou-318378254/">LinkedIn</a>
-</p>
+### Backend & Mobile Engineer
+
+`serviced-oriented Go backends · Flutter apps that ship`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mo7amed4522.github.io/MyProtfilo/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.khaled4522@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mohamed-abdou-318378254/)
+
+<img src="https://komarev.com/ghpvc/?username=mo7amed4522&label=Profile%20views&color=0A84FF&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mo7amed4522?label=Followers&style=flat-square&color=0A84FF&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/mo7amed4522?label=Stars&style=flat-square&color=8B5CF6&logo=github" alt="Stars" />
+
+</div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                         ABOUT ME                             -->
-<!-- ============================================================ -->
-### 👋 About Me
+## 👋 About
 
-I am a **Backend & Mobile Engineer with 7+ years of experience** architecting scalable backend systems and shipping cross-platform mobile applications. My work spans Go, Node.js, Python, and Flutter, from monolithic service-oriented architectures to Odoo ERP integrations and real-time mobile experiences.
+Backend & mobile engineer with 7 years of experience across **Egypt, Sweden, and the UAE** — building systems that hold under real production load and mobile apps people actually enjoy using.
 
-I care about clean architecture, observability, and shipping products that hold up under real-world load. I have delivered production systems on three continents (🇪🇬 Egypt, 🇸🇪 Sweden, 🇦🇪 UAE), and I am currently based in Dubai.
-
-- 🔭 **Currently:** Building service-oriented **Go** backends at **Hera Sawda Technologies** (Dubai, UAE).
-- 🌱 **Exploring:** gRPC streaming, event-driven architecture, Flutter performance profiling, and Kubernetes operators.
-- 💬 **Ask me about:** Go · Flutter · Bloc/Riverpod · PostgreSQL · Redis · Docker · AWS · gRPC.
-- 🎯 **Career focus:** Building backends that scale horizontally and mobile apps that feel invisible.
-- ⚡ **Fun fact:** I have shipped code on three continents, and the UAE is home now.
+- 🏗️ Service-oriented **Go monoliths**, REST (Gin) & gRPC services
+- 📱 **Flutter** apps for Android & iOS with clean architecture
+- 🌍 Currently **Backend Developer at Hera Sawda Technologies**, Dubai
+- 🔍 I care about clean architecture, observability, and systems that survive real users
 
 ---
 
-<!-- ============================================================ -->
-<!--                    TECH STACK — BADGES                       -->
-<!-- ============================================================ -->
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Backend & Cloud**
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Mobile**
+**Mobile & Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-</p>
-
-**Languages & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<!-- ============================================================ -->
-<!--                  EXPERIENCE TIMELINE                         -->
-<!-- ============================================================ -->
-### 💼 Experience Timeline
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="180"><b>2022 – Present</b></td>
-<td>
+> Full-stack marketplace & ride-hailing ecosystem — Flutter clients backed by Go/Node services.
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🛒 [tayara_app](https://github.com/mo7amed4522/tayara_app) | Marketplace Flutter app — browse, list & trade | `Flutter · Dart` |
+| 🚗 [Driver-App](https://github.com/mo7amed4522/Driver-App) | Driver-side app for the ride-hailing platform | `Flutter · Maps` |
+| ⚙️ [tayara_api_repo](https://github.com/mo7amed4522/tayara_api_repo) | Backend APIs powering the tayara marketplace | `Go · REST · PostgreSQL` |
+| 🚕 [taxi_backend](https://github.com/mo7amed4522/taxi_backend) | Ride-hailing backend — dispatch, trips & drivers | `Go · gRPC · Redis` |
+| 🏛️ [base-full-stack-monlothic-services](https://github.com/mo7amed4522/base-full-stack-monlothic-services) | Reusable full-stack monolith service base | `Go · Monolith · Docker` |
+| 👤 [User-App](https://github.com/mo7amed4522/User-App) | Rider-side app for booking & tracking trips | `Flutter · Firebase` |
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/View_All_Repositories-0A84FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo7amed4522?tab=repositories)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details>
+<summary><b>Full Timeline</b> — click to expand</summary>
+
+<br/>
 
 **Backend Developer — Hera Sawda Technologies Co**
-`Dubai, UAE` · `Go · gRPC · PostgreSQL · Redis · Docker · AWS`
-
-- Architected a **service-oriented Go monolith** handling enterprise workloads.
-- Designed **RESTful APIs (Gin)** and defined **gRPC services and Protobuf contracts**.
-- Built persistence layers with **GORM**, following clean architecture with full test coverage.
-- Containerized services with **Docker** and collaborated on **Kubernetes** deployments.
-- Implemented **observability and CI/CD pipelines**, improving reliability and code quality.
-
-</td>
-</tr>
-<tr>
-<td><b>2021 – 2022</b></td>
-<td>
+`Dubai, UAE` · `2022 – Present`
+- Architected service-oriented Go monolith for enterprise workloads
+- Designed REST APIs (Gin) and gRPC services with Protobuf contracts
+- Built GORM persistence layers with clean architecture and full test coverage
+- Containerized with Docker; deployed on Kubernetes
+- Implemented observability and CI/CD pipelines
 
 **Backend Engineer (Contract) — Remote · Sweden**
-`Next.js · TypeScript · Vercel · AWS · Firebase`
-
-- Built and maintained **RESTful APIs and serverless backends** using Next.js API routes.
-- Integrated **OAuth/JWT** authentication and third-party payment gateways.
-- Deployed on **Vercel, AWS, and Firebase**, optimizing PostgreSQL, MySQL, and MongoDB queries.
-
-</td>
-</tr>
-<tr>
-<td><b>2020 – 2021</b></td>
-<td>
+`2021 – 2022` · `Next.js · TypeScript · Vercel · AWS · Firebase`
+- Built REST APIs and serverless backends on Next.js API routes
+- Integrated OAuth/JWT and third-party payment gateways
+- Optimized PostgreSQL, MySQL, and MongoDB queries
 
 **Odoo / Python Developer — Egypt**
-`Python · Odoo · XML · PostgreSQL`
-
-- Customized and extended **Odoo modules** (Sales, Inventory, Accounting, Purchase).
-- Developed and maintained **custom Python modules** with XML views and PostgreSQL.
-- Managed **database migrations and performance tuning**; collaborated with mobile teams for ERP integration.
-
-</td>
-</tr>
-<tr>
-<td><b>2019 – 2020</b></td>
-<td>
+`2020 – 2021` · `Python · Odoo · XML · PostgreSQL`
+- Customized Odoo modules (Sales, Inventory, Accounting, Purchase)
+- Maintained custom Python modules with XML views
+- Managed migrations and performance tuning; collaborated with mobile teams for ERP integration
 
 **Flutter Mobile Engineer — UAE**
-`Flutter · Dart · Provider · Bloc · Riverpod · Firebase`
+`2019 – 2020` · `Flutter · Dart · Provider · Bloc · Riverpod`
+- Engineered cross-platform apps, reducing delivery time by 40%
+- Integrated REST APIs, WebSocket, Firebase, and third-party SDKs
+- Implemented clean architecture and golden tests
 
-- Engineered cross-platform Flutter apps, **reducing development time by 40%**.
-- Built and deployed **multiple feature-rich apps** for Android and iOS.
-- Integrated **REST APIs, WebSocket, Firebase services**, and third-party SDKs.
-- Implemented **clean architecture and state management** (Provider, Bloc, Riverpod).
-- Ensured high code quality via **unit, integration, and golden tests**.
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-<!-- ============================================================ -->
-<!--                  FEATURED PROJECTS                           -->
-<!-- ============================================================ -->
-### 🏆 Featured Projects
+## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-#### 🏨 [HOTELO-ERP](https://github.com/mo7amed4522/HOTELO-ERP)
-Hotel management backend — bookings, inventory, staff APIs.
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=mo7amed4522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mo7amed4522&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-`TypeScript` `Node.js` `Express` `MySQL`
+<img src="https://github-stats-extended.vercel.app/api?username=mo7amed4522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=contributions" alt="Lifetime contribution statistics" width="100%" />
 
-</td>
-<td width="50%">
-
-#### 🏥 [Life-Line](https://github.com/mo7amed4522/Life-Line)
-Hospital management and emergency response app.
-
-`Flutter` `Dart` `Firebase` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td>
-
-#### 👁️ [My-Eye](https://github.com/mo7amed4522/My-Eye)
-Voice-controlled travel booking for visually impaired users.
-
-`Flutter` `Bloc` `Speech Recognition`
-
-</td>
-<td>
-
-#### 🍱 [Food-GO-User](https://github.com/mo7amed4522/Food-GO-User)
-Home-cooked meals marketplace app with payments.
-
-`Flutter` `Firebase` `Payments`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/mo7amed4522?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                      GITHUB STATISTICS                       -->
-<!-- ============================================================ -->
-<!--
-  REPLACEMENTS:
-  - github-readme-stats.vercel.app  →  gh-stats.com
-    (same API shape, cache-first, no PAT required, no Vercel pause)
-  - github-readme-activity-graph.vercel.app  →  statsvg_rs
-    (GitHub Actions–generated static SVG, no server, no rate limits)
--->
+## 🐍 Contribution Snake
 
-### 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://gh-stats.com/api/mo7amed4522?show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="180em" src="https://gh-stats.com/api/top-langs/mo7amed4522?layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/output/github-snake.svg" alt="Contribution snake" width="100%" />
+</picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mo7amed4522&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/stats-assets/stats.svg" alt="Lifetime contribution statistics" width="100%" />
-</p>
+</div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                  LIFETIME STATS — SETUP NOTE                 -->
-<!-- ============================================================ -->
-<!--
-  The statsvg_rs card above points to a dedicated branch
-  "stats-assets" in this repository. To activate it:
+## 🤝 Connect
 
-  1. Fork https://github.com/akshay2211/statsvg_rs
-  2. In render.yml set STATSVG_USER: mo7amed4522
-  3. Enable GitHub Pages for that fork (Source = GitHub Actions)
-  4. Copy the published stats.svg into a branch named
-     "stats-assets" of this profile repository.
+<div align="center">
 
-  Until then, the image will show a broken link. You can
-  remove the <p> block above to avoid the broken image
-  while you set it up.
--->
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eng.khaled4522@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mohamed-abdou-318378254/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/mo7amed24)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mo7amed4522)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/544523695)
 
----
+<sub>Dubai, UAE · Open to backend and mobile roles</sub>
 
-<!-- ============================================================ -->
-<!--                        TROPHIES                              -->
-<!-- ============================================================ -->
-<!--
-  The public trophy host (github-profile-trophy.vercel.app)
-  answers DEPLOYMENT_DISABLED. Do not use it. Trophies have
-  been removed to keep the README reliable.
--->
-
-### 🏅 Recognition
-
-- Delivered enterprise Go backends at Hera Sawda Technologies.
-- Shipped 40% faster cross-platform delivery with Flutter at scale.
-- Integrated Odoo ERP with mobile applications for healthcare workflows.
-- Built and maintained payment and authentication systems across three markets.
-
----
-
-<!-- ============================================================ -->
-<!--                    CONTRIBUTION SNAKE                        -->
-<!-- ============================================================ -->
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mo7amed4522/mo7amed4522/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
-  </picture>
-</p>
-
----
-
-<!-- ============================================================ -->
-<!--                  CERTIFICATIONS & LEARNING                   -->
-<!-- ============================================================ -->
-### 📜 Certifications & Continuous Learning
-
-- 🐹 **Go** — Advanced concurrency, gRPC, and distributed patterns.
-- 🎯 **Flutter** — Bloc, Riverpod, clean architecture, and golden testing.
-- ☁️ **AWS** — EC2, S3, Lambda, RDS, and CloudWatch.
-- 🐳 **Docker & Kubernetes** — containerization and orchestration.
-- 🗄️ **PostgreSQL & Redis** — query optimization, caching, and indexing.
-- 📚 **Currently learning:** Kubernetes operators, gRPC streaming, and Flutter performance tuning.
-
----
-
-<!-- ============================================================ -->
-<!--                      CONNECT WITH ME                         -->
-<!-- ============================================================ -->
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaled-mohamed-abdou-318378254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eng.khaled4522@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://gitlab.com/mo7amed24">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://mo7amed4522.github.io/MyProtfilo/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://t.me/mo7amed4522">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://wa.me/544523695">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-<!-- ============================================================ -->
-<!--                         FOOTER                               -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Dubai%2C%20UAE-000000?style=for-the-badge" alt="Made in Dubai" />
-</p>
-
-<p align="center">
-  <sub>⭐ From <a href="https://github.com/mo7amed4522">Khaled Mohamed</a> — building backends that scale and apps that feel effortless.</sub>
-</p>
+</div>
